@@ -4,11 +4,13 @@ APIStuff.hx
 art/build_x32-officialrelease.bat
 art/build_x64-officialrelease.bat
 art/test_x64-debug-officialrelease.bat
+.haxelib/
+export/debug/
+export/release/
 
 ### VS Code
 export/*
 .vscode/*
-.haxelib/
 *.code-workspace
 # Local history which shouldn't be shared.
 .history
