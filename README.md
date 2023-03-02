@@ -1,3 +1,32 @@
+# Are you shit at Friday Night Funkin'?
+
+Well if so, have I got the solution for you!
+
+Introducing Practice Your Funk!
+
+PYF is a fork of Psych Engine made for practicing your mad skills!
+
+The major changes include:
+
+- Ghost Tapping is off by default to promote accurate playing
+- Controls are DFJK by default to promote better finger placement
+- Weeks are locked so new players don't skip to new weeks
+
+More changes are soon to come.
+
+If you have any suggestions or issues, submit an issue
+
+To play now, go to:
+
+https://gman2006i.github.io/PYFunk/
+
+
+Windows and Mac versions are coming soon, don't worry!
+
+Anyways, have fun and enjoy!!
+
+
+
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
